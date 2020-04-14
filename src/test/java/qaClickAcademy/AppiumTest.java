@@ -22,4 +22,9 @@ public class AppiumTest {
 	{
 		System.out.println("GoogleApps");	
 	}
+	@Test
+	public void GoogleApp()
+	{
+		System.out.println("GoogleApp");	
+	}
 }
